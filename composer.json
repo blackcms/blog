@@ -1,0 +1,26 @@
+{
+    "name": "blackcms/blog",
+    "description": "Manage posts, categories, tags",
+    "type": "addon",
+    "version": "1.0.0",
+    "homepage": "http://blackcms.pyor.team/addons/blog",
+    "keywords": [
+        "addon",
+        "blog",
+        "categories",
+        "posts",
+        "tags"
+    ],
+    "authors": [
+        {
+            "name": "Pyor Team",
+            "email": "dev@pyor.team",
+            "homepage": "http://pyor.team"
+        }
+    ],
+    "extra": {
+        "name": "Blog",
+        "namespace": "BlackCMS\\Blog\\",
+        "provider": "BlackCMS\\Blog\\Providers\\BlogServiceProvider"
+    }
+}
