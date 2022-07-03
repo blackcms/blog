@@ -1,6 +1,6 @@
 # BlackCMS/Blog
 
-<p align="center">
+<p>
     <a href="https://img.shields.io/github/license/blackcms/blog"><img src="https://img.shields.io/github/license/blackcms/blog"></a>
     <a href="https://img.shields.io/github/forks/blackcms/blog"><img src="https://img.shields.io/github/forks/blackcms/blog"></a>
     <a href="https://img.shields.io/github/issues/blackcms/blog"><img src="https://img.shields.io/github/issues/blackcms/blog"></a>
