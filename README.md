@@ -9,7 +9,7 @@
 
 This is an addon of **BlackCMS**.
 
-It includes the main features for management: posts, categories and tags.
+It includes the main features for managing posts, categories and tags.
 
 ## Usage
 
