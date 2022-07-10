@@ -2,7 +2,7 @@
     "name": "blackcms/blog",
     "description": "Addon for manage posts, categories, tags",
     "type": "addon",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "http://blackcms.pyor.team/addons/blog",
     "keywords": [
         "addon",
